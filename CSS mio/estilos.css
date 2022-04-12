@@ -1,0 +1,19 @@
+.mio-img{
+    height: 80vh;
+}
+
+.card-group{
+    margin: 10px;
+}
+.card{
+    margin: 0 20px;
+}
+
+iframe{
+    margin: 200px 20% 0 20%;
+}
+
+body{
+    background-color: whitesmoke;
+}
+
